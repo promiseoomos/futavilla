@@ -1,0 +1,503 @@
+/* HOME PAGE STYLES */
+
+.big{
+  font-size:45px;
+  color:white;
+  font-weight:bolder;
+  font-family:"Hobo Std";
+  }
+sub, sup{
+  font-size:20px;
+  color:red;
+  font-weight:1000;
+  font-family:magneto;
+  }
+  .echoname{
+    font-size:16px;
+    color:white;
+    font-family:"Hobo Std";
+    text-shadow:;
+  }
+
+  @media (max-width : 768px){
+      .feat{
+        width:400px;
+        height:300px;
+        margin:0px auto;
+      }
+    }
+
+    .nav-img{
+      margin-bottom:100px;
+    }
+
+
+  @media (max-width: 768px){
+    .echoname, .ddt{
+      font-size:11px;
+    }
+  }
+.navbar-header{
+  margin-left:30px;
+  }
+ul.navbar-nav li:hover{
+  border-bottom: 2px solid white;
+  }
+
+ul.navbar-left{
+  margin-left:100px;
+  font-size:17px;
+  }
+ul.navbar-right{
+  margin-right:70px;
+  font-size:17px;
+  }
+ul.navbar-nav a{
+  color:black;
+  }
+
+ nav {
+  height:100px;
+  padding:20px 0 10px 0;
+  background-color:rgba(78,34,129,0.3);
+  }
+
+  @media (max-width: 768px){
+
+    div#example-navbar-collapse{
+      background-color:black !important;
+    }
+      div#example-navbar-collapse a{
+        color:white;
+      }
+
+}
+  .navbar{
+    background-color:rgba(78,34,129,0.999);
+  }
+body{
+  padding-top:110px;
+  }
+div.col{
+  #background-color:rgba(78,34,129,0.6);
+  height:auto;
+  margin-left:2px;
+  }
+.navbar-footer{
+  height:300px;
+  background-color:indigo;
+  margin-top:5px;
+  }
+  .navbar-header{
+    #background-color:rgba(78,34,129,0.9);
+  }
+  #feath{
+    margin-top:50px;
+    border-bottom: 4px solid purple;
+  }
+  .feat{
+    height: 200px;
+    width: auto;
+   
+    border: 1px solid black;
+    margin-top:4px;
+    padding:4px;
+  }
+  #adv{
+    font-size: 25px;
+    text-align: center;
+  }
+  .news{
+    height:180px;
+    border:1px solid black;
+    margin-top:8px;
+    padding:3px;
+  }
+  .newsi{
+    height:170px;
+    width: 230px;
+  }
+  .nimg{
+    float:left;
+    margin-right:7px;
+  }
+
+ /* Styling the dropdown Menu Navbar for smaller Screens */
+          .pulll{
+            margin-right:15px;
+            border:1px solid gray;
+            border-radius:500px;
+          }
+          .profImg2{
+            height:60px;
+            width:50px;
+            border-radius:150px 150px;
+          }
+          .dropdown-xs{
+            margin-right:20px;
+            margin-top:20px;
+          }
+          .dropdown-tog{
+            color:white;
+            font-weight: bolder;
+            margin-top:40px;
+            font-size:15px;
+          }
+          .dropdown-tog:hover{
+            text-decoration:none;
+          }
+          .dropdown-tog:active{
+            text-decoration:none;
+          }
+          .echoo{
+            font-size:12px;
+          }
+
+
+
+  /* Footer style */
+      .ftable{
+        margin-top:9px;
+        padding:5px;
+      }
+      td.ftd{
+        color:white;
+        font-size:12px;
+        font-weight:700;
+        margin:5px;
+        padding:5px;
+        width:350px;
+        border-left:1px solid gray;
+        vertical-align: text-top;
+      }
+      .fa{
+        color:white
+      }
+      .fa:hover{
+        text-decoration: none;
+        color:red;
+      }
+      td.itd{
+        padding:3px;
+        vertical-align: text-top;
+      }
+      th{
+        color:red;
+        font-size: 14px;
+      }
+      #regbtn{
+        background-color:green;
+        color:white;
+      }
+      #regbtn:hover{
+        background-color:red;
+        color:indigo;
+        font-weight:bold;
+      }
+/* End of footer style */
+
+/* Register page style */
+
+      #regist{
+        margin-top: 50px;
+        padding:5px;
+
+      }
+      .regtd{
+        padding:7px;
+        margin-top:7px;
+        width:400px;
+      }
+      .lab,.prodlab{
+        font-size:16px;
+        font-family:"Hobo Std";
+      }
+      .regi{
+        font-size:17px;
+      }
+      hr{
+        color : black;
+        font-weight:bold;
+      }
+/* Styling Market Place page */
+  #searchdiv{
+    margin-top: 50px;
+  }
+  #seadiv{
+    border-radius: 50px 100px;
+    background-color: cyan;
+    height:180px;
+    padding:15px;
+  }.seatd{
+    padding:5px;
+    margin-left:7px;
+  }
+  .seaform{
+    width:250px;
+    border-radius: 30px 70px;
+  }#sea{
+    font-size: 19px;
+    font-weight:bolder;
+  }#sea{
+    margin-left: 30px;
+    width:160px;
+  }
+  #sea:hover{
+    background-color:rgba(250,253,115,0.5);
+  }
+  .genreg{
+    margin-top:20px;
+  }
+  #itemlist, #itemlist2{
+    border: 1px solid black;
+    margin-top: 30px;
+    padding:5px;
+  }
+  #test2{
+    margin:100px;
+  }
+
+
+/* Styling the Index Page */
+
+    .ih3{
+      font-weight:bold;
+      font-family:fantasy;
+      color : red;
+      font-size: 27px;
+      margin-top:40px;
+      border-bottom : 3px solid black;
+    }
+
+    .newsdi{
+      margin-top:60px;
+    }
+
+    @media (max-width: 768px){
+      .seaform{
+        width:100px;
+      }
+    }
+
+/* Admin Pages Styles */
+
+      #aside{
+        background-color:rgba(78,34,129,0.3);
+        width:400px;
+        float:left;
+        margin-top: -15px;
+        padding:0px 0px 10px 0px;
+      }
+
+      #aside-ul{
+        margin-top:50px;
+      }
+
+      .aside-li{
+        color:purple;
+        list-style-type:none;
+        height:20px;
+        margin-bottom:20px;
+
+      }
+      .aside-a{
+        text-decoration: none;
+        color:black;
+        height:50px;
+        font-size:17px;
+        font-weight:bolder;
+        display:block;
+        width:330px;
+        #background-color:gray;
+        padding:15px 10px 50px 15px;
+      }
+      .aside-a:hover{
+        text-decoration: none;
+        #background-color:rgba(170,169,145,0.5);
+        color:white;
+      }
+      .aside-a:active{
+        text-decoration: none;
+      }
+      .aside-a:visited{
+        text-decoration: none;
+      }
+      #profile{
+        height:250px;
+        border-bottom:1px solid black;
+        background-color:rgba(78,34,129,0.3);
+      }
+      #imgg{
+        width:75px;
+        height:75px;
+        border-radius:100px;
+        border:;
+        margin-left:40px;
+      }
+      #shift{
+        margin-top:50px;
+        margin-left:70px;
+      }
+      .profp{
+        margin-left:20px;
+        font-size:16px;
+        font-weight:bolder;
+        color:black;
+      }
+      .profp1{
+        margin-top:35px;
+      }
+      #proffimg{
+        margin-top:20px;
+        width:90px;
+        height:90px;
+        border-radius: 150px 150px;
+      }
+
+      @media (max-width: 768px){
+        #aside{
+          width:300px;
+        }
+      }
+
+      /* Responsive Styling */
+
+      .container {
+          display: flex;
+          width: 100%;
+          align-items: stretch;
+      }
+
+      @media (max-width: 768px) {
+        #aside {
+            margin-left: -400px;
+        }
+        #aside.active {
+            margin-left: 0;
+        }
+        .evh1{
+          font-size:18px;
+          font-weight:bolder;
+        }
+      }
+        .overlay {
+          display: none;
+          position: fixed;
+          /* full screen */
+          width: 100vw;
+          height: 100vh;
+          /* transparent black */
+          background: rgba(0, 0, 0, 0.7);
+          /* middle layer, i.e. appears below the sidebar */
+          z-index: 998;
+          opacity: 0;
+          /* animate the transition */
+          transition: all 0.5s ease-in-out;
+      }
+      /* display .overlay when it has the .active class */
+      .overlay.active {
+          display: block;
+          opacity: 1;
+      }
+
+      #dismiss {
+          width: 50px;
+          height: 50px;
+          position: absolute;
+          text-align:center;
+          padding-top:15px;
+          background-color:blue;
+          /* top right corner of the sidebar */
+          top: 10px;
+          right: 10px;
+          cursor:pointer;
+      }
+
+/* Styling the event page */
+    #headmed{
+      font-weight:bolder;
+    }
+
+
+/* Styling the admin_dashboard Page */
+
+    .overview-units{
+          text-align:center;
+          float:left;
+          width:200px;
+          border-radius:5px 5px;
+          height:100px;
+          margin:10px;
+          padding:10px;
+          background:linear-gradient(red,blue);
+          #background-color:gray;
+          color:white;
+        }
+        #overview-head{
+          padding-top:10px;
+          padding-left:40px;
+          font-size:23px;
+          font-weight:bold;
+          color:white;
+          font-family:"Hobo Std";
+          background-color:purple;
+          height:50px;
+        }
+
+
+/** Styling the View Pages */
+
+        #seadiv{
+          height:180px;
+        }
+        .cont{
+          padding:20px;
+        }
+        #hosCarousel{
+          height:;
+          width:800px;
+          margin:0px auto 0px auto;
+          margin-top:80px;
+          margin-bottom:20px;
+        }
+       .cont{
+          width:800px;
+        }
+        .cont2{
+          width:400px;
+        }
+        #ev-imgg{
+          height:600px;
+          width:600px;
+          margin:0px auto 0px auto;
+          margin-top:80px;
+        }
+        #ev_img{
+          margin-top:;
+          width:;
+        }
+        #ev_body{
+          padding:20px;
+          margin:0px auto;
+          margin-left:20px;
+          background-color:rgba(178,178,178,0.1);
+        }
+        .ev_p{
+          font-size:18px;
+          font-weight:;
+          font-family:"";
+          margin-top:10px;
+          padding-left:25px;
+        }
+        .p_tit{
+          font-size:20px;
+          padding-left:25px;
+          font-weight:bold;
+        }
+
+        .caroimg{
+          width:600px;
+          height:600px;
+        }
+
+
